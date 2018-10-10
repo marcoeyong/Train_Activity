@@ -1,0 +1,19 @@
+.jumbotron {
+    text-align: center;
+    background: rgb(190, 86, 109);
+    color: rgba(58, 3, 109, 0.74);
+    width: 960px;
+    margin: auto;
+}
+
+.form {
+    background: rgba(49, 173, 11, 0.61);
+    color: black;
+    width: 960px;
+    margin: auto;
+}
+
+.submit {
+    background: rgb(156, 86, 6);
+    color: rgba(214, 106, 18, 0.438);
+}
